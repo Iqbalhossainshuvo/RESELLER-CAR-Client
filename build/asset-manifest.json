@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f99e3663.css",
+    "main.js": "/static/js/main.58aeb14c.js",
+    "static/js/787.de6e292a.chunk.js": "/static/js/787.de6e292a.chunk.js",
+    "static/media/98488-bot-error-404.gif": "/static/media/98488-bot-error-404.d597fbbf3ffa1cf5ee97.gif",
+    "static/media/register.gif": "/static/media/register.6ad6cfb7618bd7d34d50.gif",
+    "static/media/login.gif": "/static/media/login.f985d5827ff684a793b6.gif",
+    "static/media/bannerImg1.jpg": "/static/media/bannerImg1.9d22787f939bed457d8f.jpg",
+    "static/media/bannerImg2.jpg": "/static/media/bannerImg2.443aa8237cffb3fc5788.jpg",
+    "static/media/bmwLogo.jpg": "/static/media/bmwLogo.81cad26fc506e3ee4af6.jpg",
+    "index.html": "/index.html",
+    "main.f99e3663.css.map": "/static/css/main.f99e3663.css.map",
+    "main.58aeb14c.js.map": "/static/js/main.58aeb14c.js.map",
+    "787.de6e292a.chunk.js.map": "/static/js/787.de6e292a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f99e3663.css",
+    "static/js/main.58aeb14c.js"
+  ]
+}
