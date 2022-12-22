@@ -6,4 +6,8 @@
 *** live link: https://reseller-car.web.app/
 
 Email: mdiqbalhossin14024@gmail.com
+<<<<<<< HEAD
 PW: 123456
+=======
+PW: 123456
+>>>>>>> 487f08e5b3878ae18a2db171023eef61cee38d0b
